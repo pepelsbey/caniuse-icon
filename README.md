@@ -2,12 +2,12 @@
 
 Proposed icon for [Can I use…](http://caniuse.com).
 
-![source/152.png] ![source/32.png] ![source/16.png]
+![152×152](source/152.png) ![32×32](source/32.png) ![16×16](source/16.png)
 
 That’s how it look in desktop browsers with `favicon.ico`
 
-![source/osx.jpg]
+![OS X](source/osx.jpg)
 
 Saved as shortcut icon on iOS with with `apple-touch-icon.png`
 
-![source/ios.jpg]
+![iOS](source/ios.jpg)
